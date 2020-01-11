@@ -1,5 +1,3 @@
-![](flipper.gif)
-
 # Flipper Clock
 
 Flipper Clock is a dynamic clock written in Flutter. It is a project by me (HSCOGT / Harry Caballeros) for the [Flutter Clock Challenge](https://flutter.dev/clock). The challenge is to create a beautiful clock UI for the Lenovo Smart Clock.
@@ -7,6 +5,14 @@ Flipper Clock is a dynamic clock written in Flutter. It is a project by me (HSCO
 The flipper clock is composed of a grid view, in each position, there's a tile that flips accordingly to display the time; Each tile can also hold a character or an icon to display some information, in this case, the temperatures and the icon to represent the weather.
 
 The numbers are clear, easy to read, contrasty, and spaced well, this makes it easy to read the time from longer distances and helps users with vision challenges.
+
+> Normal Speed (The colors seem a little bit opaque in the GIFs, in reality, they are more vibrant.)
+
+![](Normal.gif)
+
+>Slow Speed
+
+![](Slow.gif)
 
 ### Demo Video 
 
